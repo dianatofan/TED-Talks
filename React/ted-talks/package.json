@@ -2,6 +2,7 @@
   "name": "ted-talks",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://dianatofan.github.io/TED-Talks/",
   "dependencies": {
     "eslint-config-react-tools": "^1.0.10",
     "gh-pages": "^1.1.0",
@@ -24,6 +25,5 @@
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
-  },
-  "homepage": "https://dianatofan.github.io/TED-Talks/"
+  }
 }
