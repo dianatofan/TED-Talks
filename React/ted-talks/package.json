@@ -15,7 +15,7 @@
     "react-slick": "^0.15.4",
     "react-table": "^6.7.4",
     "react-typist": "^2.0.4",
-    "recharts": "^1.0.0-beta.6",
+    "recharts": "^2.1.14",
     "slick-carousel": "^1.8.1"
   },
   "scripts": {
